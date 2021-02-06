@@ -1,2 +1,2 @@
-# Car-Price-Prediction
-https://seat-belt.herokuapp.com/
+# Seat-Belt
+Dataset:https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
